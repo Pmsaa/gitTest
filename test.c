@@ -2,7 +2,8 @@
 
 int main(void)
 {
-    printf("Hello world");
+    printf("Hello world\n");
 
+    printf("I will modify this file");
     return 0;
 }
